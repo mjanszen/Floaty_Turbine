@@ -27,4 +27,14 @@ There are basically three concepts :
 #### Feasible concepts 
 - spar buoy vs semi-submersible 
 
+- spar buoy is more simple 
+- s.b probably less prone to wave excitation
+- s.b. can be tuned (mass, damping, buoyancy, buoyancy distribution)
+
+- s.b. might be problematic during installation (towing, vortex shedding, weird dynamics)
+- harder to correct angles in a spar buoy 
+
+- semi-submersible: resistance to large waves ? 
+- submersion in comparison to wave height might be small 
+
 
